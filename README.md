@@ -11,4 +11,10 @@ Conducted comprehensive data extraction and analysis on Netflix data. Extracted 
 2. MS SQL
 3. Python
 
+🔍 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗡𝗼𝗿𝗺𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Used Python to extract the dataset, ensuring it was normalized for consistency and ease of analysis.
+
+🛠️ 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠: Tackled missing values and duplicates to maintain the integrity of the data. This included formatting dates and numbers for better readability and analysis.
+
+📈 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Conducted a comprehensive analysis on the cleaned dataset, turning raw data into actionable insights using Tableau that help understand trends and patterns within Netflix content.
+
 
