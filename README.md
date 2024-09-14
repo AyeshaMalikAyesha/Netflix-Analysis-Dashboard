@@ -1,4 +1,5 @@
 <h1 align='center'> 🎬📊Netflix Data Extraction and Analysis</h1>
+
 # Build a simple ETL pipeline using Python and SQL
 Conducted comprehensive data extraction and analysis on Netflix data. Extracted the dataset using Python, normalized the data, addressed missing values and duplicates, formatted dates and numbers, and performed a detailed analysis on the cleaned and structured data to derive meaningful insights using Tableau.
 
